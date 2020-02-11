@@ -1,4 +1,4 @@
-package dayoon_lee_exercise1;
+package dentalSystem;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
